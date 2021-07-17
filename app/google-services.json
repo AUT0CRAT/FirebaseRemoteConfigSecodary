@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "846257531094",
+    "firebase_url": "https://daggerkotlin.firebaseio.com",
+    "project_id": "daggerkotlin",
+    "storage_bucket": "daggerkotlin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846257531094:android:fe898bc40a3f301a",
+        "android_client_info": {
+          "package_name": "parkar.alim.daggerwithkotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "846257531094-aibq2cjnhm5350q794u63p5r68i9a9s4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmWT9f0YnNIHnADQiZiyL7i3jWNjCCWQ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "846257531094-aibq2cjnhm5350q794u63p5r68i9a9s4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

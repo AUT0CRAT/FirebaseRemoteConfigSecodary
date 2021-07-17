@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="appIdDebug" translatable="false">1:708684739457:android:454bc54e5fe159b5b42e80</string>
+    <string name="apiKeyDebug" translatable="false">AIzaSyC6yvl84rDc8H5zjFZaLPTrJXMHLSIAjTM</string>
+    <string name="databaseUrlDebug" translatable="false">fir-remote-config-7321d.appspot.com</string>
+    <string name="storeageBucketDebug" translatable="false">fir-remote-config-7321d.appspot.com</string>
+    <string name="projectIdDebug" translatable="false">fir-remote-config-7321d</string>
+    <string name="gcmSenderIdDebug" translatable="false">708684739457</string>
+
+</resources>
